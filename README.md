@@ -4,7 +4,7 @@
 
 🔧 I'm passionate about software development. I'm an experienced Python developer with proficiency in JavaScript, web design, Linux, Git, and more. I'm actively pursuing opportunities to expand my technical skills and contribute innovative solutions.
 
-🛠️ Beyond academia, I engage in full-stack web design, cybersecurity competitions, and other tinkering projects, enhancing my practical expertise. See some of my projects here: [](https://connbrack.com/portfolio/)
+🛠️ Beyond academia, I engage in full-stack web design, cybersecurity competitions, and other tinkering projects, enhancing my practical expertise. See some of my projects here: [connbrack.com/portfolio](https://connbrack.com/portfolio/)
 
 💼 Currently seeking roles where I can leverage my development experience and academic background to drive innovation and make meaningful contributions in the tech sector.
 
